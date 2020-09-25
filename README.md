@@ -1,4 +1,4 @@
-###Atividade feita para o curso de JavaScript Game Developer da Digital Inovation One - módulo: Recriando a página inicial do Instagram.###
+### Atividade feita para o curso de JavaScript Game Developer da Digital Inovation One - módulo: Recriando a página inicial do Instagram. ###
 
 A proposta da atividade foi recriar a página de login do Instagram conforme as instruções passadas.
 
